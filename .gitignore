@@ -1,0 +1,35 @@
+## .NET Framework
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vs/
+packages/
+*.nupkg
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Tooling
+_UpgradeReport_Files/
+[Pp]ublish/
+*.nupkg
+*.snk
+*.pdb
+
+## IDE
+.vs/
+*.sln.ide/
+project.lock.json
